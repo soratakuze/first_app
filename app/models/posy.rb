@@ -1,0 +1,2 @@
+class Posy < ApplicationRecord
+end
